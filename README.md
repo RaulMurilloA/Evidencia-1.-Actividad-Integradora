@@ -16,3 +16,5 @@ El sistema puede modificarse un poco al poder elegir la cantidad de vehículos q
 Para la simulación se utiliza MESA para recrear celdas con cada uno de nuestros agentes, al iniciar la simulación se generan aleatoriamente agentes de vehículos dentro de las celdas que corresponden a las calles y un comportamiento si quieren mantenerse en el carril o no o si van a querer dar vuelta en la intersección o no. También se genera el pasto con un estado aleatorio según el color que  pueden tomar, pero este agente no condiciona el comportamiento de los vehículos.
 
 Al simular se pueden observar cómo el sistema permite que los vehículos estén en constante movimientoo reduciendo al máximo el tiempo de espera en cada semáforo, esto es gracias al tiempo dado a cada semáforo para que se mantengan rotando los estados y no afecten de manera negativa a los vehículos. Una vez los vehículos pasan la intersección y salen del mapa regresan al lado opuesto para mantenerse en línea recta ya que solo pueden realizar los cambios de dirección una vez.
+
+# https://github.com/RaulMurilloA/Evidencia-1.-Actividad-Integradora.git
